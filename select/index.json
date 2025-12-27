@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "君がいるから(Long Version)",
+  "base_artist": "菅原紗由理",
+  "createdAt": "2025-12-27T07:10:06.729854Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "君がいるから (Long Version)",
+      "artist": "菅原紗由理",
+      "has_synced": true,
+      "path": "select/01_君がいるから_(Long_Version)_菅原紗由理.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "君がいるから - Long Version",
+      "artist": "Sayuri Sugawara",
+      "has_synced": true,
+      "path": "select/02_君がいるから_-_Long_Version_Sayuri_Sugawara.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君がいるから (Long Ver.)",
+      "artist": "菅原 紗由理",
+      "has_synced": false,
+      "path": "select/pl_01_君がいるから_(Long_Ver.)_菅原_紗由理.txt"
+    }
+  ]
+}
